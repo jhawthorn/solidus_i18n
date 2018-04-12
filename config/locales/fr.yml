@@ -328,7 +328,6 @@ fr:
         special_instructions: Instructions spéciales
         state: État de la commande
         total: Total
-        considered_risky: Risqué
       spree/order/bill_address:
         address1: Rue de l'adresse de facturation
         city: Ville de l'adresse de facturation
@@ -425,7 +424,7 @@ fr:
       spree/promotion/rules/taxon:
         description: La commande inclus des produits avec les taxon(s) donnés
       spree/promotion/rules/nth_order:
-        description: Appliquer une réduction à tout n-ième commande des clients
+        description: "Appliquer une réduction à tout n-ième commande des clients"
         form_text: "Appliquer une réduction à tout n-ième commande des clients:"
       spree/promotion/rules/first_repeat_purchase_since:
         description: Disponible pour les utilisateurs n'ayant pas commandés depuis un certain temps
@@ -834,7 +833,7 @@ fr:
       spree/promotion_category:
         one: Catégorie de promotion
         other: Catégories de promotion
-       spree/promotion_code_batch:
+      spree/promotion_code_batch:
         one: Code de réduction
         other: Codes de réduction
       spree/promotion_code:
@@ -964,7 +963,7 @@ fr:
     add_action_of_type: Ajouter l'action de type
     add_country: Ajouter un pays
     add_coupon_code: Ajouter un code promo
-     add_line_item: Ajouter un produit
+    add_line_item: Ajouter un produit
     add_new_header: Ajouter une nouvelle en-tête
     add_new_style: Ajouter un nouveau style
     add_one: Ajouter une
